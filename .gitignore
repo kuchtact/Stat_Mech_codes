@@ -1,0 +1,4 @@
+# Ignore idea files.
+.idea
+# Virtual environment.
+venv
